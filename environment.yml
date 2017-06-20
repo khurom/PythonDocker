@@ -1,0 +1,10 @@
+name: KhuromApp
+channels:
+  - conda-forge
+dependencies:
+  - python=3.4.4
+  - flask
+  - numpy
+  - flask-cors
+  - pandas
+  - redis
